@@ -1,0 +1,8 @@
+One of the key strategies I took away from the class is the benefits in developing in small stages / pieces while following the "stone soup" methodology.  
+If you give developers a monumental project with just one end goal in mind, the development process can take longer.
+Teams will guard resources more closely, complicate processes, etc. and the team may fall subject to start-up fatigue.
+In order to avoid this, you can develop in stages by introducing one feature (i.e., one stone) at a time to slowly build out a full platform.
+As the project gains momentum, the team will find it easier to join ongoing success and rally around the continued development process.
+At the same time, its important to balance this with the negative side of parsing out projects into stages that are too small or insignificant.
+This could potentially lead to systems drifting further away from the original intent as new patches get added over time.
+
