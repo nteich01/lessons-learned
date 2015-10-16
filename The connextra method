@@ -1,0 +1,7 @@
+Agile software development can be made more effective by the use of the connextra method. 
+The method involves user stories, which capture what the user does or needs to do when s/he uses the system.
+They define the functions a system must provide, capturing the who, what, and why of a requirement in a concise way.
+The connextra method usually consists of three parts: 
+"As a _____" (identifies the type of user we are referring to, which could be an administrator, an end user, or other)
+"I want to _____" (identifies the end goal of the user)
+"So that _____" (identifies the benefit which the user will get once the action has been carried out)
