@@ -1,5 +1,5 @@
 Many factors contribute to the decision around developing a website or mobile app. These factors include financial budget, time constraints, viability of the idea/proof of concept, target customer (demographic, method of use, etc.), need for push notifications, etc. 
-For instance, a website would be more approrpriate for a smaller budget and time constrained project. 
+For instance, a website would be more approrpriate for a smaller budget and time constrained project. If the team decides to develop a website first, they should consider developing/designing the website with mobile-first mentality and have the website be mobile-friendly for users as many users now browse websites through their mobile devices.
 On the contrary, a mobile app requires a higher budget and takes into consideration multiple platforms.
 A mobile app would be most useful if a company wants the ability to push notifications to users such as a notification of a sale or promotion.
 However, the mobile app also has limitations as it does not automatically load the latest version for users; users will need to update the latest version of the app themselves whereas a website automatically loads the latest version once the site is loaded.
