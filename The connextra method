@@ -1,0 +1,17 @@
+Agile software development can be made more effective by the use of the connextra method. 
+The method involves user stories, which capture what the user does or needs to do when s/he uses the system.
+They define the functions a system must provide, capturing the who, what, and why of a requirement in a concise way.
+The connextra method usually consists of three parts: 
+"As a _____" (identifies the type of user we are referring to, which could be an administrator, an end user, or other)
+"I want to _____" (identifies the end goal of the user)
+"So that _____" (identifies the benefit which the user will get once the action has been carried out)
+
+User story card example: 
+http://www.agileconnection.com/sites/default/files/article/2015/user-story-card.jpg
+
+Writing good user stories: 
+https://www.youtube.com/watch?v=DaqyLWOEObY
+
+Some benefits of the connextra method are that it is very brief and allows for the breaking up of a project into small increments.
+Limitations are that user stories are really only conversation starters; they can be vague, informal, or incomplete. 
+
