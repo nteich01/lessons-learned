@@ -1,4 +1,4 @@
-Finding coders who can avoid and remove duplication is key to a sucessful project. Duplication wastes time and energy, but it also reveals things about the software engineers writing the code.
+Finding coders who can avoid and remove duplication is key to a sucessful project. Some common types of duplication include imposed, inadvertent, impatient, and interdeveloper. Duplication wastes time and energy, but it also reveals things about the software engineers writing the code.
 The ability to avioiding duplication shows a variety of skills that are extremely valueable in a programmer.
 First, being able to pull back and look at the big picture allows a programmer to see down the rod and avoid dupliating work. This skill is extremely important.
 Also, avoiding duplication in a team setting shows strong communication skills that will be essential for success. If an engineer can properly communicate their vision, code and efforts with the team they will avoid duplicating the same code and also avoid other potential issues at the same time.
